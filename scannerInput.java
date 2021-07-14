@@ -25,9 +25,12 @@ class scannerInput
         System.out.println("Enter a Floating Number: ");
         float f = s.nextFloat();
 
+<<<<<<< HEAD
         //Close the Scanner class
         s.close();
 
+=======
+>>>>>>> 095f1748db2fff893848f97fecf6fa4ba839abb3
         System.out.println("---------------------------------------------------");
         System.out.println("String: " + str);
         System.out.println("Character: " + c);
