@@ -18,3 +18,4 @@
    * For Loop
    * While Loop
    * Do-While Loop
+6. A simple calculator
