@@ -20,5 +20,6 @@
    * Do-While Loop
 6. A simple calculator
 7. Basic Programs
-   1. Odd Even Numbers
-   2. Factorial of a number
+   * Odd Even Numbers
+   * Factorial of a number
+   * Fibonacci Series
