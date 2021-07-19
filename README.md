@@ -23,3 +23,5 @@
    * Odd Even Numbers
    * Factorial of a number
    * Fibonacci Series
+8. Class & Object
+   * Class 1: Create a simple class and it's instance (object).
