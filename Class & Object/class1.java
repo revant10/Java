@@ -1,4 +1,4 @@
-class Student
+class Student1
 {
     int id;
     String name, dept;
@@ -10,7 +10,7 @@ class Student
         dept = "IT";
     }
 
-    void displayData()
+    void viewData()
     {
         System.out.println("ID: " + id);
         System.out.println("Name: " + name);
@@ -22,8 +22,8 @@ class class1
 {
     public static void main(String[] args)
     {
-        Student s1 = new Student();
+        Student1 s1 = new Student1();
         s1.setData();
-        s1.displayData();
+        s1.viewData();
     }
 }
