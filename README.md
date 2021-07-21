@@ -26,3 +26,4 @@
 8. Class & Object
    * Class 1: Create a simple class and it's instance (object).
    * Class 2: Passing data to through arguments.
+   * Constructor 1: Default Constructor
