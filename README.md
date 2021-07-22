@@ -28,3 +28,5 @@
    * Class 2: Passing data through arguments.
    * Constructor 1: Default Constructor
    * Constructor 2: Parameterized Constructor
+9. Polymorphism
+   * Method Overloading
