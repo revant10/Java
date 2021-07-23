@@ -1,7 +1,6 @@
+// Super/Parent Class
 class twoD
 {
-    // this is a parent class
-    
     int length, breadth;
 
     twoD(int x, int y)
@@ -16,14 +15,13 @@ class twoD
     }
 }
 
+// Child/Sub Class
 class threeD extends twoD
 {
-    // This is the child class
-    
     int height;
     threeD(int x, int y, int z)
     {
-        // super keyword is used to pass to the parent class.
+        // super keyword is used to invoke constructor of super-parent class.
         super (x , y);
         height = z;
     }
@@ -32,7 +30,6 @@ class threeD extends twoD
     {
         return (length * breadth * height);
     }
-    
 }
 
 class singleIn
