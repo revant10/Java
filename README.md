@@ -33,3 +33,4 @@
 09. Inheritance
    * Single Inheritance
    * Multilevel Inheritance
+   * Hierarchical Inheritance
