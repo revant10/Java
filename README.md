@@ -1,6 +1,6 @@
 # Java Repository
 
-### The filename and the name of class containing main() method shoild be same.
+### The filename and the name of class containing main() method should be same.
 ### Command to complile: javac _program-name_.java
 ### Command to execute: java _program-name_
 
@@ -29,9 +29,11 @@
    * Constructor 1: Default Constructor
    * Constructor 2: Parameterized Constructor
 08. Polymorphism
-   * Method Overloading 
+   * Method Overloading        
    * Method Overriding
 09. Inheritance
    * Single Inheritance
    * Multilevel Inheritance
    * Hierarchical Inheritance
+10. Array
+   * Array 1: A simple 1D array.
