@@ -35,6 +35,7 @@
    - Single Inheritance
    - Multilevel Inheritance
    - Hierarchical Inheritance
+   - Multiple Inherithance: Implemented using Interface
 10. Array
    - Array 1: A simple 1D array.
    - Array 2: 2D array.
