@@ -8,32 +8,33 @@
 02. Command Line Arguments
 03. Taking Input using Scanner
 04. Decision Making
-   * if Statement
-   * Nested if
-   * if-else
-   * if-else-if ladder
-   * Ternary Operator
-   * Switch Case
+   - if Statement
+   - Nested if
+   - if-else
+   - if-else-if ladder
+   - Ternary Operator
+   - Switch Case
 05. Loops
-   * For Loop
-   * While Loop
-   * Do-While Loop
+   - For Loop
+   - While Loop
+   - Do-While Loop
 06. Basic Programs
-   * A simple calculator
-   * Odd Even Numbers
-   * Factorial of a number
-   * Fibonacci Series
+   - A simple calculator
+   - Odd Even Numbers
+   - Factorial of a number
+   - Fibonacci Series
 07. Class & Object
-   * Class 1: Create a simple class and it's instance (object).
-   * Class 2: Passing data through arguments.
-   * Constructor 1: Default Constructor
-   * Constructor 2: Parameterized Constructor
+   - Class 1: Create a simple class and it's instance (object).
+   - Class 2: Passing data through arguments.
+   - Constructor 1: Default Constructor
+   - Constructor 2: Parameterized Constructor
 08. Polymorphism
-   * Method Overloading        
-   * Method Overriding
+   - Method Overloading        
+   - Method Overriding
 09. Inheritance
-   * Single Inheritance
-   * Multilevel Inheritance
-   * Hierarchical Inheritance
+   - Single Inheritance
+   - Multilevel Inheritance
+   - Hierarchical Inheritance
 10. Array
-   * Array 1: A simple 1D array.
+   - Array 1: A simple 1D array.
+   - Array 2: 2D array.
