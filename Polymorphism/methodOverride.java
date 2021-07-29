@@ -31,7 +31,7 @@ class Sub extends Super
     }
 }
 
-class methodOverride
+public class methodOverride
 {
     public static void main(String[] args)
     {

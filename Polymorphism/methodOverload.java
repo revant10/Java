@@ -21,7 +21,7 @@ class Area
     }
 }
 
-class methodOverload
+public class methodOverload
 {
     public static void main(String[] args)
     {

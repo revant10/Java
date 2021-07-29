@@ -1,7 +1,7 @@
 // Importing Scanner class
 import java.util.Scanner;
 
-class matrix2
+public class matrix2
 {
     public static void main(String[] args)
     {
@@ -19,7 +19,7 @@ class matrix2
         int c1 = scan.nextInt();
         System.out.print("No. of rows for Matrix B: ");
         int r2 = scan.nextInt();
-        System.out.print("No. of columns for Matrix A: ");
+        System.out.print("No. of columns for Matrix B: ");
         int c2 = scan.nextInt();
 
         if(c1 != r2)

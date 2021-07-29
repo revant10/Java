@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class matrix1
+public class matrix1
 {
     public static void main(String[] args)
     {

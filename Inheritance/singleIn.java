@@ -32,7 +32,7 @@ class threeD extends twoD
     }
 }
 
-class singleIn
+public class singleIn
 {
     public static void main(String[] args)
     {

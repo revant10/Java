@@ -48,7 +48,7 @@ class Triangle extends Peri
     }
 }
 
-class hierarchical
+public class hierarchical
 {
     public static void main(String[] args)
     {

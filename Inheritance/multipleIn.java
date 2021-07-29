@@ -41,7 +41,7 @@ class C extends A implements B
     }
 }
 
-class multipleIn
+public class multipleIn
 {
     public static void main(String[] args)
     {
