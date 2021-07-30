@@ -42,6 +42,7 @@
    - Matrix 1: Addition & Subtraction of Matrices
    - Matrix 2: Matrix Multiplication
 11. Exception Handling
-   - Try-Catch
+   - try-Catch
    - Finally
    - Throw
+   - throwS
