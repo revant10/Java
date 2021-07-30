@@ -44,3 +44,4 @@
 11. Exception Handling
    - Try-Catch
    - Finally
+   - Throw
