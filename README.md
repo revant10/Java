@@ -43,3 +43,4 @@
    - Matrix 2: Matrix Multiplication
 11. Exception Handling
    - Try-Catch
+   - Finally
