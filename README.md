@@ -23,6 +23,7 @@
    - Odd Even Numbers
    - Factorial of a number
    - Fibonacci Series
+   - Palindrome
 07. Class & Object
    - Class 1: Create a simple class and it's instance (object).
    - Class 2: Passing data through arguments.
