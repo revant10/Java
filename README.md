@@ -14,6 +14,7 @@
    - if-else-if ladder
    - Ternary Operator
    - Switch Case
+   - D1
 05. Loops
    - For Loop
    - While Loop
