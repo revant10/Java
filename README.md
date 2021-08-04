@@ -43,6 +43,7 @@
    - Array 2: 2D array.
    - Matrix 1: Addition & Subtraction of Matrices
    - Matrix 2: Matrix Multiplication
+   - Vectors
 11. Exception Handling
    - try-Catch
    - Finally
