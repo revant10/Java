@@ -1,7 +1,7 @@
 // Importing Stack class
 import java.util.Stack;
 
-public class stack
+public class stack1
 {
     public static void main(String[] args)
     {
