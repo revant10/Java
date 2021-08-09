@@ -64,3 +64,7 @@
    * Stack
       - stack1
       - stack2
+      
+   * Queue
+      - queue1
+      - queue2
