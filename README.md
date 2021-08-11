@@ -68,3 +68,6 @@
    * Queue
       - queue1
       - queue2
+
+14. StringOps
+   * String Case
