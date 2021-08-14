@@ -72,3 +72,4 @@
 14. StringOps
    * String Case
    * Concat
+   * Equals
