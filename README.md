@@ -14,12 +14,12 @@
    * if-else-if ladder
    * Ternary Operator
    * Switch Case
-   * D1
 
 05. Loops
    * For Loop
    * While Loop
    * Do-While Loop
+   * L1
 
 06. BasicPrograms
    * A simple calculator
@@ -73,3 +73,4 @@
    * String Case
    * Concat
    * Equals
+   * SubString

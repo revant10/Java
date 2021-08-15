@@ -1,6 +1,6 @@
 // This program demonstrates Break, Continue, and Labeled loop and Jump usage
 
-class D1
+class L1
 {
     public static void main(String[] args)
     {
