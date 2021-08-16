@@ -74,3 +74,4 @@
    * Concat
    * Equals
    * SubString
+   * TrimSpace
