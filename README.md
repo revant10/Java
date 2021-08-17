@@ -75,3 +75,4 @@
    * Equals
    * SubString
    * TrimSpace
+   * AlphabeticalOrder
