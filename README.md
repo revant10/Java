@@ -79,3 +79,4 @@
 
 15. Sorting
    * Bubble Sort
+   * Selection Sort
