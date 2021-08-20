@@ -28,11 +28,12 @@
    * Fibonacci Series
    * Palindrome
 
-07. Class&Object
+07. ClassObjectMethod
    * Class 1: Create a simple class and it's instance (object).
    * Class 2: Passing data through arguments.
    * Constructor 1: Default Constructor
    * Constructor 2: Parameterized Constructor
+   * Static Members
 
 08. Polymorphism
    * Method Overloading        
