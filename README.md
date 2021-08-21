@@ -77,6 +77,7 @@
    * SubString
    * TrimSpace
    * AlphabeticalOrder
+   * StringManipulation
 
 15. Sorting
    * Bubble Sort
