@@ -7,7 +7,14 @@
 01. Hello World
 02. Command Line Arguments
 03. Taking Input using Scanner
-04. DecisionMaking
+04. BasicPrograms
+   * A simple calculator
+   * Odd Even Numbers
+   * Factorial of a number
+   * Fibonacci Series
+   * Palindrome
+
+05. DecisionMaking
    * if Statement
    * Nested if
    * if-else
@@ -15,18 +22,11 @@
    * Ternary Operator
    * Switch Case
 
-05. Loops
+06. Loops
    * For Loop
    * While Loop
    * Do-While Loop
    * L1
-
-06. BasicPrograms
-   * A simple calculator
-   * Odd Even Numbers
-   * Factorial of a number
-   * Fibonacci Series
-   * Palindrome
 
 07. ClassObjectMethod
    * Class 1: Create a simple class and it's instance (object).
