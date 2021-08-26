@@ -20,7 +20,7 @@ class A extends Thread
 // Stop Method
 // It will terminate current thread even before
 // the end of the run()
-// It is depreceated.
+// It is deprcated.
 class B extends Thread
 {
     public void run()
