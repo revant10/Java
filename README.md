@@ -62,6 +62,7 @@
 
 12. MultiThreading
    * mt1
+   * ThreadMethods
 
 13. DataStructures
    * Stack
@@ -81,6 +82,6 @@
    * AlphabeticalOrder
    * StringManipulation
 
-15. Sorting
+15. Sorting 
    * Bubble Sort
    * Selection Sort
