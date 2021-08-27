@@ -13,6 +13,7 @@
    * Factorial of a number
    * Fibonacci Series
    * Palindrome
+   * Decimal2Binary
 
 05. DecisionMaking
    * if Statement
