@@ -64,6 +64,7 @@
 12. MultiThreading
    * mt1
    * ThreadMethods
+   * ThreadPriority
 
 13. DataStructures
    * Stack
