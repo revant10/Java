@@ -65,6 +65,7 @@
    * mt1
    * ThreadMethods
    * ThreadPriority
+   * ThreadDetails
 
 13. DataStructures
    * Stack
