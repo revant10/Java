@@ -66,6 +66,7 @@
    * ThreadMethods
    * ThreadPriority
    * ThreadDetails
+   * Synchronization
 
 13. DataStructures
    * Stack
