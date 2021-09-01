@@ -89,4 +89,4 @@
 15. Sorting 
    * Bubble Sort
    * Selection Sort
-   * Binary Sort
+   * Insertion Sort
