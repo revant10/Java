@@ -94,3 +94,4 @@
 16. Packages
    * Package1
    * HidingClasses
+   * StaticImport
