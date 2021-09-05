@@ -63,6 +63,7 @@
    * Finally
    * Throw
    * throwS
+   * multipleCatch
 
 10. MultiThreading
    * mt1
