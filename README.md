@@ -4,10 +4,13 @@
 ### Command to complile: javac _program-name_.java
 ### Command to execute: java _program-name_
 
-01. Hello World
-02. Command Line Arguments
-03. Taking Input using Scanner
-04. BasicPrograms
+01. Basics
+   * Hello World Program
+   * Class Loader
+   * CLI Arguments
+   * Scanner Input
+
+02. Miscellaneous
    * A simple calculator
    * Odd Even Numbers
    * Factorial of a number
@@ -15,7 +18,7 @@
    * Palindrome
    * Decimal2Binary
 
-05. DecisionMaking
+03. DecisionMaking
    * if Statement
    * Nested if
    * if-else
@@ -23,13 +26,13 @@
    * Ternary Operator
    * Switch Case
 
-06. Loops
+04. Loops
    * For Loop
    * While Loop
    * Do-While Loop
    * L1
 
-07. ClassObjectMethod
+05. ClassObjectMethod
    * Class 1: Create a simple class and it's instance (object).
    * Class 2: Passing data through arguments.
    * Constructor 1: Default Constructor
@@ -38,37 +41,37 @@
    * DynamicDispatch
    * VarArgs
 
-08. Polymorphism
+06. Polymorphism
    * Method Overloading        
    * Method Overriding
 
-09. Inheritance
+07. Inheritance
    * Single Inheritance
    * Multilevel Inheritance
    * Hierarchical Inheritance
    * Multiple Inherithance: Implemented using Interface
 
-10. Array
+08. Array
    * Array 1: A simple 1D array.
    * Array 2: 2D array.
    * Matrix 1: Addition & Subtraction of Matrices
    * Matrix 2: Matrix Multiplication
    * Vectors
 
-11. ExceptionHandling
+09. ExceptionHandling
    * try-Catch
    * Finally
    * Throw
    * throwS
 
-12. MultiThreading
+10. MultiThreading
    * mt1
    * ThreadMethods
    * ThreadPriority
    * ThreadDetails
    * Synchronization
 
-13. DataStructures
+11. DataStructures
    * Stack
       - stack1
       - stack2
@@ -77,7 +80,7 @@
       - queue1
       - queue2
 
-14. StringOps
+12. StringOps
    * String Case
    * Concat
    * Equals
@@ -86,12 +89,12 @@
    * AlphabeticalOrder
    * StringManipulation
 
-15. Sorting 
+13. Sorting 
    * Bubble Sort
    * Selection Sort
    * Insertion Sort
 
-16. Packages
+14. Packages
    * Package1
    * HidingClasses
    * StaticImport
