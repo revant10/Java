@@ -22,6 +22,7 @@
 - Palindrome
 - Decimal2Binary
 - ArmstrongNumber
+- PrimeNumber
 
 3.  DecisionMaking
 
