@@ -120,3 +120,4 @@
 15. InputOutput
 
 - ReadingBytes
+- WritingBytes
