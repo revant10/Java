@@ -122,3 +122,4 @@
 - ReadingBytes
 - WritingBytes
 - CopyingBytes
+- Appending
