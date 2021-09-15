@@ -123,3 +123,4 @@
 - WritingBytes
 - CopyingBytes
 - Appending
+- RandomAccess
