@@ -124,3 +124,4 @@
 - CopyingBytes
 - Appending
 - RandomAccess
+- SequenceBuffer
