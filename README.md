@@ -125,3 +125,4 @@
 - Appending
 - RandomAccess
 - SequenceBuffer
+- InteractiveIO
