@@ -6,14 +6,14 @@
 
 ### Command to execute: java _program-name_
 
-1.  Basics
+#### 1.  Basics
 
 - Hello World Program
 - Class Loader
 - CLI Arguments
 - Scanner Input
 
-2.  Miscellaneous
+#### 2.  Miscellaneous
 
 - A simple calculator
 - Odd Even Numbers
@@ -24,7 +24,7 @@
 - ArmstrongNumber
 - PrimeNumber
 
-3.  DecisionMaking
+#### 3.  DecisionMaking
 
 - if Statement
 - Nested if
@@ -33,14 +33,14 @@
 - Ternary Operator
 - Switch Case
 
-4.  Loops
+#### 4.  Loops
 
 - For Loop
 - While Loop
 - Do-While Loop
 - L1
 
-5.  ClassObjectMethod
+#### 5.  ClassObjectMethod
 
 - Class 1: Create a simple class and it's instance (object).
 - Class 2: Passing data through arguments.
@@ -50,19 +50,19 @@
 - DynamicDispatch
 - VarArgs
 
-6.  Polymorphism
+#### 6.  Polymorphism
 
 - Method Overloading
 - Method Overriding
 
-7.  Inheritance
+#### 7.  Inheritance
 
 - Single Inheritance
 - Multilevel Inheritance
 - Hierarchical Inheritance
 - Multiple Inherithance: Implemented using Interface
 
-8.  Array
+#### 8.  Array
 
 - Array 1: A simple 1D array.
 - Array 2: 2D array.
@@ -70,7 +70,7 @@
 - Matrix 2: Matrix Multiplication
 - Vectors
 
-9.  ExceptionHandling
+#### 9.  ExceptionHandling
 
 - try-Catch
 - Finally
@@ -78,7 +78,7 @@
 - throwS
 - multipleCatch
 
-10. MultiThreading
+#### 10. MultiThreading
 
 - mt1
 - ThreadMethods
@@ -86,7 +86,7 @@
 - ThreadDetails
 - Synchronization
 
-11. DataStructures
+#### 11. DataStructures
 
 - Stack
   - stack1
@@ -95,7 +95,7 @@
   - queue1
   - queue2
 
-12. StringOps
+#### 12. StringOps
 
 - String Case
 - Concat
@@ -105,19 +105,19 @@
 - AlphabeticalOrder
 - StringManipulation
 
-13. Sorting
+#### 13. Sorting
 
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
 
-14. Packages
+#### 14. Packages
 
 - Package1
 - HidingClasses
 - StaticImport
 
-15. InputOutput
+#### 15. InputOutput
 
 - ReadingBytes
 - WritingBytes
